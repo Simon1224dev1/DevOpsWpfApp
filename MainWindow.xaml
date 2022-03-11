@@ -8,8 +8,11 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <StackPanel Orientation="Vertical">
-            <Button Content="Simon"
-                    HorizontalAlignment="Left"
+            <TextBox Text="Simon"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center"
+                    HorizontalContentAlignment="Center"
+                    VerticalContentAlignment="Center"
                     Height="50"
                     Width="100"/>
         </StackPanel>
